@@ -37,11 +37,22 @@ button {
 }
 
 #skills {
-    display: block;
+    margin-top: 70px;
 }
- ul {
-    display: block;
+ #skills li {
+    display: inline-block;
     text-align: center;
-    list-style-type: disc;
+    margin: 20px;
+    font-weight: bolder;
+    background-color: lightblue;
+    padding: 10px;
+}
 
+#projects {
+    margin-top: 30px;
+}
+
+#projects li {
+    padding: 20px;
+    list-style-type: none;
 }
