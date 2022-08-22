@@ -1,0 +1,47 @@
+h1 {
+    text-align: center;
+}
+
+#aboutMe {
+    margin-top: 100px;
+}
+
+#experience {
+    margin-top: 50px;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+}
+
+.container-main {
+    width: 70%;
+    /* border: 1px solid black; */
+}
+
+svg {
+    fill: currentColor;
+}
+
+button {
+    border-radius: 20%;
+    margin: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.bi {
+    width: 2em;
+    height: 2em;
+}
+
+#skills {
+    display: block;
+}
+ ul {
+    display: block;
+    text-align: center;
+    list-style-type: disc;
+
+}
